@@ -37,10 +37,10 @@ int main(){
 		for (int i=0; i<sum; i++){
 			cout << angka[i] << " ";
 		}
-		cout << "\nMaksimum\t: " << max;
-		cout << "\nMinimum\t\t: " << min;
-		cout << "\nRata-rata\t: " << rata2;
-		cout << "\nSelisih Max\t: " << rmax;
+	cout << "\nMaksimum\t: " << max;
+	cout << "\nMinimum\t\t: " << min;
+	cout << "\nRata-rata\t: " << rata2;
+	cout << "\nSelisih Max\t: " << rmax;
 	
 	return 0;
 }		
